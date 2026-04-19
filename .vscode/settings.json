@@ -1,9 +1,14 @@
 {
     "python-envs.pythonProjects": [
         {
-            "path": ".",
-            "envManager": "ms-python.python:venv",
+            "path": "/Users/zhewang/miniconda3/envs/quantfactor-ws",
+            "envManager": "ms-python.python:conda",
             "packageManager": "ms-python.python:pip"
+        },
+        {
+            "path": ".",
+            "envManager": "ms-python.python:conda",
+            "packageManager": "ms-python.python:conda"
         }
     ]
 }
