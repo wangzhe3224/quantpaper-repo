@@ -4,6 +4,7 @@
 
 | Paper | 中文 | Year | Tags | Files |
 |-------|------|------|------|-------|
+| [A Five-Factor Asset Pricing Model](ssrn-2287202/ssrn-2287202_en.md) | [五因子资产定价模型](ssrn-2287202/ssrn-2287202_zh.md) | 2014 | Five-Factor Model, Fama-French, Profitability, Investment | [PDF](ssrn-2287202/ssrn-2287202.pdf) |
 | [Building Cross-Sectional Systematic Strategies By Learning to Rank](2012.07149v1/2012.07149v1_formatted.md) | [通过学习排序构建横截面系统性策略](2012.07149v1/2012.07149v1_zh.md) | 2020 | Learning-to-Rank, Cross-Sectional Momentum, Portfolio Optimization | [PDF](2012.07149v1/2012.07149v1.pdf) |
 | [Leveraging LLMs for Top-Down Sector Allocation in Automated Trading](2503.09647/2503.09647_en.md) | [利用大语言模型实现自动化交易中的自上而下行业配置](2503.09647/2503.09647_zh.md) | 2025 | LLM, Sector Allocation, Sentiment Analysis, Portfolio Optimization | [PDF](2503.09647/2503.09647.pdf) |
 | [Machine Learning Enhanced Multi-Factor Quantitative Trading: A Cross-Sectional Portfolio Optimization Approach with Bias Correction](2507.07107v1/2507.07107v1_formatted.md) | [机器学习增强的多因子量化交易：带偏差校正的横截面投资组合优化方法](2507.07107v1/2507.07107v1_zh.md) | 2025 | Multi-Factor, Machine Learning, Portfolio Optimization, A-Share, Bias Correction | [PDF](2507.07107v1/2507.07107v1.pdf) |
